@@ -62,6 +62,22 @@ The project includes:
 - Community detection visualization
 - Inter-cluster heatmap
 - Word clouds and content analysis plots
+## Sample Visualizations
+
+### Network Structure
+![Network Structure](images/network_structure.png)
+
+### Community Detection
+![Communities](images/communities.png)
+
+### Inter-Cluster Communication
+![Intercluster](images/intercluster_heatmap.png)
+
+### Temporal Activity
+![Temporal](images/temporal_activity.png)
+
+### Word Cloud
+![WordCloud](images/wordcloud.png)
 
 ---
 
