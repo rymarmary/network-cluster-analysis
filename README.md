@@ -64,8 +64,7 @@ The project includes:
 - Word clouds and content analysis plots
 ## Sample Visualizations
 
-### Network Structure
-![Network Structure](images/network_analysis.png)
+
 
 ### Community Detection
 ![Communities](images/communities.png)
