@@ -65,19 +65,6 @@ The project includes:
 
 ---
 
-## Repository Structure
-
-```
-communication-network-analysis/
-│
-├── network_analysis.ipynb
-├── data/
-├── images/
-└── README.md
-```
-
----
-
 ## How to Run
 
 1. Clone the repository
