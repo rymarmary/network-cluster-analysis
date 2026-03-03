@@ -66,13 +66,15 @@ The project includes:
 ---
 
 ## Repository Structure
+
+```
 communication-network-analysis/
 │
 ├── network_analysis.ipynb
 ├── data/
 ├── images/
 └── README.md
-
+```
 
 ---
 
