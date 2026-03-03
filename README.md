@@ -89,6 +89,6 @@ The project includes:
 
 ---
 
-## Author
+## Author Rymar Mariia
 
 Student project – network analysis and data visualization
