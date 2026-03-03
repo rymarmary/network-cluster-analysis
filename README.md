@@ -65,7 +65,7 @@ The project includes:
 ## Sample Visualizations
 
 ### Network Structure
-![Network Structure](images/network_structure.png)
+![Network Structure](images/network_analysis.png)
 
 ### Community Detection
 ![Communities](images/communities.png)
