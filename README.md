@@ -69,6 +69,8 @@ The project includes:
 - Inter-cluster heatmap
 - Word clouds and content analysis plots
 
+### Network Graph Analysis
+![Graph](images/network_analysis.png)
 
 ### Community Detection
 ![Communities](images/communities.png)
