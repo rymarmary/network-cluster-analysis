@@ -16,6 +16,8 @@ The goal of the analysis is to understand how the network is structured, identif
 - Detect structural communities within the network
 - Analyze inter-cluster communication patterns
 - Explore thematic patterns in message content
+- Compare different graph layouts for network visualization
+- Examine communication patterns across weekdays and weekends
 
 ---
 
@@ -24,11 +26,13 @@ The goal of the analysis is to understand how the network is structured, identif
 The analysis includes:
 
 - Data preprocessing and graph transformation
-- Time-based activity analysis
+- Time-based activity analysis (hourly patterns and weekday vs weekend comparison)
 - Degree and betweenness centrality metrics
 - Community detection using modularity optimization
 - Inter-cluster interaction analysis
 - Text mining and word frequency analysis
+- Word cloud comparison across communities
+- Network visualization using multiple graph layouts
 
 Python libraries used:
 
@@ -43,12 +47,14 @@ Python libraries used:
 
 ## Key Findings
 
-- The network exhibits a moderately centralized structure
-- A dense core of highly connected participants is present
-- Several stable communities were detected
-- Communication is predominantly intra-cluster
-- Certain actors act as bridges between communities
+- The network exhibits a moderately centralized structure with a dense communication core
+- Several highly connected participants dominate the network structure
+- Multiple stable communities were detected within the network
+- Communication occurs predominantly within communities rather than between them
+- Certain participants act as bridges connecting different clusters
+- Communication activity is concentrated during working hours and weekdays
 - Message content is largely operational and coordination-focused
+- Different communities show thematic specialization in communication topics
 
 ---
 
@@ -62,8 +68,6 @@ The project includes:
 - Community detection visualization
 - Inter-cluster heatmap
 - Word clouds and content analysis plots
-## Sample Visualizations
-
 
 
 ### Community Detection
