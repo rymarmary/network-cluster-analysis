@@ -2,17 +2,20 @@
 
 > Graph-based investigation of a communication network — applying centrality metrics, community detection, and thematic analysis to surface structural patterns of information flow. Methods directly transferable to **fraud network analysis** (mule accounts, coordinated abuse, account linkage).
 
+> 📅 March–April 2026 · Solo project · Academic context
+
 A structural and thematic study of a directed communication graph.
 
-This project reconstructs a real-world–style communication network from a
-graph-formatted dataset and studies **who talks to whom, when, and about what**.
-The network describes message exchanges between participants involved in maritime
-operations — vessel coordination, permits, environmental monitoring and
-inter-agency interactions.
+## TL;DR
 
-The goal is to combine four complementary lenses — **temporal**, **structural**,
-**community**, and **thematic** — and to test a concrete set of hypotheses about
-the organization of information flow inside the system.
+- Reconstructed a tidy 584-message dataset from a JSON graph of 1,159 nodes and 3,226 typed edges
+- Detected 5 communities (modularity > 0.3 threshold) with clear thematic specialization between groups
+- Identified key brokers via betweenness centrality — actors sustaining inter-cluster communication despite low total degree
+- Network behaves like a structured operational organisation: schedule-driven, modular, with division of labour visible in both who talks to whom and what they talk about
+
+This project reconstructs a real-world–style communication network from a graph-formatted dataset and studies who talks to whom, when, and about what. The network describes message exchanges between participants involved in maritime operations — vessel coordination, permits, environmental monitoring and inter-agency interactions.
+
+The goal is to combine four complementary lenses — temporal, structural, community, and thematic — and to test a concrete set of hypotheses about the organization of information flow inside the system.
 
 ---
 
