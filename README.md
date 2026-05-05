@@ -179,4 +179,5 @@ permit, documentation, oceanus city, green guardians*.
 
 ## Author
 
-**Mariia Rymar** — network analysis and data-visualization project.
+**Mary Rymar** — Data Analyst, Fraud & Risk Analytics  
+[LinkedIn](https://www.linkedin.com/in/rymarmary) · [GitHub](https://github.com/rymarmary)
