@@ -1,6 +1,8 @@
 # Communication Network Analysis
 
-**A structural and thematic study of a directed communication graph.**
+> Graph-based investigation of a communication network — applying centrality metrics, community detection, and thematic analysis to surface structural patterns of information flow. Methods directly transferable to **fraud network analysis** (mule accounts, coordinated abuse, account linkage).
+
+A structural and thematic study of a directed communication graph.
 
 This project reconstructs a real-world–style communication network from a
 graph-formatted dataset and studies **who talks to whom, when, and about what**.
